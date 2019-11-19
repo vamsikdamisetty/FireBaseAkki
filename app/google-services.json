@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848463599526",
+    "firebase_url": "https://fir-akki.firebaseio.com",
+    "project_id": "fir-akki",
+    "storage_bucket": "fir-akki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848463599526:android:23a76036a8d282dcc02167",
+        "android_client_info": {
+          "package_name": "com.example.firebaseakki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848463599526-avb9h32k619u7idu0o72pa9me016dms4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseakki",
+            "certificate_hash": "393f9759d6be3f171cfcc678a79d4fa1f9f09d89"
+          }
+        },
+        {
+          "client_id": "848463599526-k6o009cc2b9ub1t6nkncn51paeisap77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHEirQH93sYNyhSrEbTts68LcIOP1i1J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848463599526-k6o009cc2b9ub1t6nkncn51paeisap77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
