@@ -51,6 +51,8 @@ public class MainActivity extends AppCompatActivity {
     private EditText etemsin;
     private EditText etempass;
 
+
+
     DatabaseReference reference;
     Member member;
     @Override
